@@ -438,6 +438,12 @@ For questions about:
 - [ ] Advanced analytics
 - [ ] Multi-language support
 
+## 🎥 Demo Video
+
+[![Watch Demo Video](https://img.shields.io/badge/Watch-Demo%20Video-red?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1JfZCtYPU0qgv-tIu-bFmwV9fxkuHE0zl/view?usp=drive_link)
+
+Watch the complete app demonstration showcasing all features in action!
+
 ## 📸 Screenshots
 
 _Coming soon_
